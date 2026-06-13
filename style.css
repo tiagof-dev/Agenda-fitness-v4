@@ -467,12 +467,15 @@ body{
 
 footer{
     text-align:center;
-    margin-top:40px;
+    margin-top:20px;
+    margin-bottom: 20px;
     color:var(--text);
+    
 }
 
 footer p{
     margin-top:5px;
+    margin-bottom: 10px;
 }
 
 /* RESPONSIVO */
